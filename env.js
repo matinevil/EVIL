@@ -6,9 +6,9 @@
 # reference these in your code with process.env.SECRET
 
 PREFIX=-
-BOT_TOKEN=NzI2NjU5OTM4NjkyMjM1MzQ0.XwNmfA.aKWQisLEzZiKpZkXyI5SSwIU95s
+BOT_TOKEN=NzQ1ODk1MDE0NzY4NTc0NTM1.Xz4a3Q.jf9cGOsLJca3s04N1Td7k4BPqsY
 YTAPI_KEY=AIzaSyAv9bQOZON0kF-OKmrKMQE40ulHfiPVD7s
-PROJECT_DOMAIN=mufobot
+PROJECT_DOMAIN=mtinEVIL
 
 
 # note: .env is a shell file so there can't be spaces around =
